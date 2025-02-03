@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a software engineer with a focus on Machine Le
 ## 🔥 Technologies & Tools
 
 **Languages & Frameworks**  
-- Python (FastAPI, Flask, Django, PyTorch, TensorFlow)
+- Python (FastAPI, Django, PyTorch, TensorFlow)
 - SQL, PostgreSQL, Docker, Nginx
 - JavaScript (Vue, React, Node.js)
 
