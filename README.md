@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi👋
 
-<!--
-**Benrise/Benrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer with a focus on Machine Learning, Backend Development, and AI solutions. I love solving complex problems, building efficient systems, and learning new technologies along the way.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Currently working on ML engineering and backend development.
+- 🌱 I'm always learning and growing in fields like AI, Data Science, and Cloud Computing.
+- 🔧 I’m passionate about automating tasks, optimizing code, and developing innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Technologies & Tools
+
+**Languages & Frameworks**  
+- Python (FastAPI, Flask, Django, PyTorch, TensorFlow)
+- SQL, PostgreSQL, Docker, Nginx
+- JavaScript (Vue, React, Node.js)
+
+**Machine Learning & AI**  
+- ML algorithms, Model Deployment, Data Preprocessing
+- Natural Language Processing, Computer Vision, Time Series Forecasting
+
+**DevOps & Cloud**  
+- Docker, Kubernetes, CI/CD pipelines
+- Yandex Cloud
+
+## 🏆 Achievements
+- 🏅 Prize winner at national and international AI hackathons
+- 🎓 Working on my ML Engineering transition with real-world projects
+- 💡 Developed several machine learning models for classification and prediction
+
+## 📫 How to reach me
+- Email: benrise_x@mail.ru
+- Telegram: [@benristar](https://t.me/benristar)
+
+---
+
+Let's connect and collaborate on exciting projects! 🚀
