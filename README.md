@@ -30,7 +30,3 @@ Welcome to my GitHub profile! I'm a software engineer with a focus on Machine Le
 ## 📫 How to reach me
 - Email: benrise_x@mail.ru
 - Telegram: [@benristar](https://t.me/benristar)
-
----
-
-Let's connect and collaborate on exciting projects! 🚀
