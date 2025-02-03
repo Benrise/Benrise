@@ -1,4 +1,4 @@
-# Privet!
+# Hi 👋
 
 I'm a software engineer with a focus on Machine Learning, Backend Development, and AI solutions. I love solving complex problems, building efficient systems, and learning new technologies along the way.
 
